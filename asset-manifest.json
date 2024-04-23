@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08807de1.css",
+    "main.js": "/static/js/main.ac22dfac.js",
+    "static/js/453.51b20bab.chunk.js": "/static/js/453.51b20bab.chunk.js",
+    "static/media/stp.jpg": "/static/media/stp.431c452896e83123f360.jpg",
+    "static/media/watermanagement.jpg": "/static/media/watermanagement.7adf95d8e93d21f80dd6.jpg",
+    "static/media/ev.jpg": "/static/media/ev.8f1a7ed784006c931039.jpg",
+    "static/media/sunenergy.jpg": "/static/media/sunenergy.0f2bdc8a9e12530b1da3.jpg",
+    "static/media/fooddecom.jpg": "/static/media/fooddecom.21c1ff3885d1cd0cdedd.jpg",
+    "index.html": "/index.html",
+    "main.08807de1.css.map": "/static/css/main.08807de1.css.map",
+    "main.ac22dfac.js.map": "/static/js/main.ac22dfac.js.map",
+    "453.51b20bab.chunk.js.map": "/static/js/453.51b20bab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08807de1.css",
+    "static/js/main.ac22dfac.js"
+  ]
+}
