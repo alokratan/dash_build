@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9762d78c.css",
-    "main.js": "/static/js/main.713037cb.js",
+    "main.css": "/static/css/main.7882d97e.css",
+    "main.js": "/static/js/main.884b218d.js",
     "static/js/453.51b20bab.chunk.js": "/static/js/453.51b20bab.chunk.js",
     "static/media/stp.jpg": "/static/media/stp.431c452896e83123f360.jpg",
     "static/media/watermanagement.jpg": "/static/media/watermanagement.7adf95d8e93d21f80dd6.jpg",
@@ -9,12 +9,12 @@
     "static/media/ev2.jpg": "/static/media/ev2.94365892792ecc067432.jpg",
     "static/media/fooddecom.jpg": "/static/media/fooddecom.21c1ff3885d1cd0cdedd.jpg",
     "index.html": "/index.html",
-    "main.9762d78c.css.map": "/static/css/main.9762d78c.css.map",
-    "main.713037cb.js.map": "/static/js/main.713037cb.js.map",
+    "main.7882d97e.css.map": "/static/css/main.7882d97e.css.map",
+    "main.884b218d.js.map": "/static/js/main.884b218d.js.map",
     "453.51b20bab.chunk.js.map": "/static/js/453.51b20bab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9762d78c.css",
-    "static/js/main.713037cb.js"
+    "static/css/main.7882d97e.css",
+    "static/js/main.884b218d.js"
   ]
 }
